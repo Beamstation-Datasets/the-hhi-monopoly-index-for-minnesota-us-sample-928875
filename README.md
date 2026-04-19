@@ -9,9 +9,9 @@
 | Dataset ID | `928875` |
 | Location | Minnesota |
 | Category | Restaurants |
-| Full dataset size | 519 records |
-| Free sample size | 48 records (9.25%) |
-| Last export | 2026-04-08T00:11:24.586777+00:00 |
+| Full dataset size | 489 records |
+| Free sample size | 48 records (9.82%) |
+| Last export | 2026-04-15T05:52:33.403857+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/the-hhi-monopoly-index-for-minnesota-us-sample-928875/releases/download/sample-latest/beamstation_928875_restaurants-us-mn_SAMPLE_DIST.csv) |
 
 ## What is in this sample
