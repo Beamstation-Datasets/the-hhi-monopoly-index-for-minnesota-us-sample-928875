@@ -1,12 +1,12 @@
 {
-  "export_job_id": "afc43dbe-683f-49a5-b3c8-4246501325bc",
+  "export_job_id": "e932c7b2-0d3e-4172-95be-e4cc067cf7f3",
   "id_short": 928875,
-  "published_at": "2026-04-23T07:16:55Z",
+  "published_at": "2026-04-29T19:51:22Z",
   "repo_name": "the-hhi-monopoly-index-for-minnesota-us-sample-928875",
   "sample_asset_name": "beamstation_928875_restaurants-us-mn_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/928875/beamstation_928875_restaurants-us-mn_SAMPLE_DIST.csv",
-  "sample_records": 27,
-  "sample_sha256": "b6c553c0cd18eb029142ffaf3cae2906c7beb3b1e0069df9a8a618ec87ee615b",
-  "sample_size_bytes": 113110,
-  "total_records": 276
+  "sample_records": 51,
+  "sample_sha256": "bc8e291a27e892bfec9449be78e29e13e20f201761e13472edae1e7e41b17ddb",
+  "sample_size_bytes": 202715,
+  "total_records": 519
 }
